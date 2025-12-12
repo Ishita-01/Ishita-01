@@ -7,7 +7,9 @@
 ### 💻 CS Undergrad | Full Stack Developer | AI Enthusiast
 ### 📍 Based in Patiala, Punjab
 
-<img src="https://via.placeholder.com/1500x500?text=Development+%7C+AI+%7C+Microservices" alt="Banner" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGPigYVNuMVfg/profile-displaybackgroundimage-shrink_350_1400/B56ZigXpspHUAY-/0/1755037212771?e=1767225600&v=beta&t=cHr6iLoRLP1PaxJGIZdFBP0cbQ6KCi_-bbJWU5R9MXA" alt="Banner" width="100%" style="border-radius: 10px;"/>
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ishita-01&color=blue)
 
