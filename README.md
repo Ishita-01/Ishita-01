@@ -1,59 +1,53 @@
+<h1 align="center">Hi there, I'm Ishita Goyal! 👋</h1>
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+about+Agentic+AI+%26+RAG;Building+Scalable+Full-Stack+Solutions;Competitive+Coder+with+600%2B+LeetCode+Problems" alt="Typing SVG" />
+</div>
 
-# Welcome to my world 🌍
+I am a dedicated Computer Science student at **Thapar Institute of Engineering and Technology** (CGPA: 9.03) with a strong focus on building intelligent, data-driven applications. I thrive at the intersection of AI engineering and full-stack development, constantly seeking to bridge the gap between complex algorithms and real-world utility.
 
-## Hi 👋, I'm Ishita Goyal
+---
 
-### 💻 CS Undergrad | Full Stack Developer | AI Enthusiast
-### 📍 Based in Patiala, Punjab
+### 🛠 Technical Arsenal
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGPigYVNuMVfg/profile-displaybackgroundimage-shrink_350_1400/B56ZigXpspHUAY-/0/1755037212771?e=1767225600&v=beta&t=cHr6iLoRLP1PaxJGIZdFBP0cbQ6KCi_-bbJWU5R9MXA" alt="Banner" width="100%" style="border-radius: 10px;"/>
+*   **Languages:** C/C++, Python, JavaScript
+*   **Full-Stack:** React.js, Node.js, Express.js, FastAPI, Streamlit
+*   **AI/ML:** Agentic AI, RAG, LangChain, LangGraph, FastMCP
+*   **Databases:** SQL, MongoDB
+*   **Tools & Infrastructure:** Git/GitHub, Docker, Linux, Google Antigravity
 
+---
 
+### 🚀 Key Projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ishita-01&color=blue)
+*   **Fitify (AI-Driven Virtual Fitness Trainer):** Engineered a computer vision pipeline using MediaPipe and temporal deep learning models (Bi-GRU/1D-CNN) to provide automated form correction for 12+ exercises.
+*   **HireHub (Job Tracking Platform):** Built a FastAPI-based platform featuring automated scraping, a Gemini-powered resume-matching engine, and Gmail API integration for streamlined job hunting.
+*   **Fasal-Salahkaar (AI Crop Advisor):** Developed a low-latency RAG application using FAISS and Streamlit to provide real-time, context-aware agricultural insights.
+*   **VidStream (Video Streaming Backend):** Architected a scalable Node.js/Express backend with JWT authentication and Cloudinary integration for efficient media management.
 
+---
+
+### 🏆 Achievements
+
+*   **National Semi-Finalist:** Flipkart GRID 7.0.
+*   **Academic Excellence:** Merit Scholarship Holder (awarded to top 1% of students.
+*   **Problem Solver:** Solved 600+ coding challenges on LeetCode.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishita-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishita-01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
-### 🧐 About Me
+### 📫 Connect With Me
 
-- 🎓 I’m a **Computer Science Engineering** student at **Thapar Institute** 
-- 🛠️ I’m currently working on **Polyglot Microservices** and **RAG (Retrieval-Augmented Generation)** architectures.
-- 🏆 **Achievements:**
-  - **National Semi-Finalist** in Flipkart GRID 7.0.
-  - **Merit Scholarship Holder** (Top 1% of branch).
-  - Solved **500+** coding problems across platforms.
-- 📫 How to reach me: **[goyalishita18@gmail.com](mailto:goyalishita18@gmail.com)**
+*   **Email:** goyalishita18@gmail.com
+*   **LinkedIn:** [Ishita-goyall](https://www.linkedin.com/in/Ishita-goyall
+*   **GitHub:** [Ishita-01](https://github.com/Ishita-01)
 
-<br/>
-
-### 🤝 Connect with me:
-<div align="center">
-  <a href="https://linkedin.com/in/ishita-goyall">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ishita-01">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:goyalishita18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-<br/>
-
-### 🛠️ Languages and Tools:
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,r,js,ts,html,css,react,nextjs,nodejs,express,flask,django,java,git,docker,linux,gcp,postman,mongodb,postgres,tensorflow,sklearn" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishita-01&show_icons=true&theme=tokyonight" alt="Ishita's Github Stats" />
-</div>
+*Always open to discussing AI research, software architecture, or potential collaborations!*
